@@ -8,7 +8,7 @@ module.exports = {
   // basic site info (required)
   name: 'Khaled',
   domain: 'https://delirious-postage-b4c.notion.site/453ce6793e244621b8a01f89db8ec933',
-  author: 'Khaled',
+  author: '',
 
   // open graph metadata (optional)
   description: 'Example site description',
@@ -17,7 +17,7 @@ module.exports = {
 
   // social usernames (optional)
   twitter: '',
-  github: 'Luckykhaled',
+  github: '',
   linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
