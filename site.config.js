@@ -1,13 +1,13 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '453ce6793e244621b8a01f89db8ec933',
+  rootNotionPageId: 'Khaled-s-Home-c7c3770875784f25a9048e50d99b58c9',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId:'453ce6793e244621b8a01f89db8ec933',
+  rootNotionSpaceId:'Khaled-s-Home-c7c3770875784f25a9048e50d99b58c9',
   // basic site info (required)
   name: 'Khaled',
-  domain: 'https://delirious-postage-b4c.notion.site/453ce6793e244621b8a01f89db8ec933',
+  domain: 'https://delirious-postage-b4c.notion.site/Khaled-s-Home-c7c3770875784f25a9048e50d99b58c9',
   author: '',
 
   // open graph metadata (optional)
