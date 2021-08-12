@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Khaled's Home',
-  domain: 'https://delirious-postage-b4c.notion.site/Khaled-s-Home-c7c3770875784f25a9048e50d99b58c9',
+  domain: 'c7c3770875784f25a9048e50d99b58c9',
   author: 'LuckyKhaled',
 
   // open graph metadata (optional)
